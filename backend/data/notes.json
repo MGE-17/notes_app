@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2",
+    "title": "Workout Plan",
+    "description": "Plan for a 5-day workout schedule: Monday - Chest, Tuesday - Back, Wednesday - Legs, Thursday - Shoulders, Friday - Arms.",
+    "date": "Dec 11, 2024"
+  },
+  {
+    "id": "3",
+    "title": "Meeting Notes",
+    "description": "Summary of the team meeting on product launch: Discussed deadlines, assigned tasks, and reviewed design updates.",
+    "date": "Dec 12, 2024"
+  },
+  {
+    "id": "4",
+    "title": "Project Ideas",
+    "description": "List of potential project ideas: Note-taking app, task manager, and weather dashboard.",
+    "date": "Dec 13, 2024"
+  },
+  {
+    "id": "5",
+    "title": "Books to Read",
+    "description": "Books to read this month: 'Atomic Habits', 'Clean Code', and 'The Pragmatic Programmer'.",
+    "date": "Dec 14, 2024"
+  },
+  {
+    "id": "7",
+    "title": "Travel Itinerary",
+    "description": "Upcoming trip to Chile: Flight departs on Dec 16, returns on Dec 19. Stay at Santiago Plaza Hotel. Visit the Andes and go wine tasting.",
+    "date": "Dec 16, 2024"
+  },
+  {
+    "id": "8",
+    "title": "Personal Budget",
+    "description": "Track monthly expenses: Rent, utilities, groceries, transportation, and entertainment.",
+    "date": "Dec 17, 2024"
+  },
+  {
+    "id": "9",
+    "title": "Job Application Tracker",
+    "description": "Track job applications: Frontend Web3 Developer at Bitrefill, Customer Success Engineer at Thirdweb, Software Developer at Solutions360 Inc.",
+    "date": "Dec 18, 2024"
+  },
+  {
+    "title": "To do ",
+    "date": "Dec 18, 2024",
+    "description": "Buy groceries and wine",
+    "id": "10"
+  }
+]

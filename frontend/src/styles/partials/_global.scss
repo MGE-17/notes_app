@@ -1,0 +1,35 @@
+@use './variables'; // Import variables for reusability
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: grid;
+    place-items: center;
+    background: var(--color-bg-light);
+    color: var(--color-text);
+    line-height: 1.6;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+h4 {
+    font-weight: 500;
+    color: var(--color-text);
+}
+
+h2 {
+    font-size: 2.2rem;
+    margin: 0;
+}
